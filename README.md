@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vyshnavi Madhusudhan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyshnavi21504&label=Profile%20views&color=0e75b6&style=flat" alt="vyshnavi21504" /> </p>
 
+<h2>I'm Vyshnavi, a second year student pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyshnavi21504" alt="vyshnavi21504" /></a> </p>
 <img align = "right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966">
